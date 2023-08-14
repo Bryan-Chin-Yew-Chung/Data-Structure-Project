@@ -1,5 +1,8 @@
-# University-Projects
-My university projects
 
+My final project for my data structure class
 
-Just a collection of my university projects >W<
+Project includes sorting with 
+  : Linked List
+  : Sorted Linked List
+  : Stack / Queue
+  : Binary Search Tree
