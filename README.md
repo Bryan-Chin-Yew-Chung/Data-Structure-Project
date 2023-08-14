@@ -6,3 +6,5 @@ Project includes sorting with
 <br>-> Sorted Linked List
 <br>-> Stack / Queue
 <br>-> Binary Search Tree
+
+Takes input from txt file input.txt.
