@@ -1,0 +1,30 @@
+bst constructed
+bst added 30
+bst added 50
+bst added 20
+bst added 10
+bst deleted 30
+10 20 50 sortList constructed
+sortedList added 10
+sortedList added 20
+sortedList added 100
+sortedList added 50
+list deleted 20
+10 50 100 
+list constructed
+list added 10
+list added 20
+list added 100
+list added 50
+10
+100
+list deleted 20
+found
+10 100 50 
+stack constructed
+stack added 10
+stack added 20
+stack added 100
+stack added 50
+stack deleted 50
+100 20 10 
